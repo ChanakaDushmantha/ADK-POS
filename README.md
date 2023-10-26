@@ -1,3 +1,5 @@
+![Logo](https://github.com/ChanakaDushmantha/ADK-POS/blob/main/ADK-POS%206d00310c2b874bf3849edb1102427e30/cover%20adkpos.jpg)
+
 # ADK-POS
 
 # **Introduction**
